@@ -1,20 +1,20 @@
 [
     {
      "id": 1,
-     "firstName": "Mariya",
-     "lastName": "Ivanova",
+     "firstName": "Boniface",
+     "lastName": "Mwema",
      "balance": 300
     },
     {
      "id": 2,
-     "firstName": "EKatina",
-     "lastName": "Milevskaya",
+     "firstName": "Raphael",
+     "lastName": "Muinde",
      "balance": 5000
     },
     {
      "id": 3,
-     "firstName": "Vasek",
-     "lastName": "Zalupickiy",
+     "firstName": "Augustine",
+     "lastName": "Mulatya",
      "balance": 2000
     }
 ]
